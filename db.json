@@ -1,0 +1,55 @@
+{
+  "teachers": [
+    {
+      "id": "1",
+      "name": "sdfsfsd",
+      "students": [
+        {
+          "name": "bnvn"
+        },
+        {
+          "name": "dsffsdf"
+        },
+        {
+          "name": "fewrwsdf"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Teacher2",
+      "students": [
+        {
+          "name": "student1"
+        },
+        {
+          "name": "student1"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Teacher3",
+      "students": [
+        {
+          "name": "student1"
+        },
+        {
+          "name": "student2"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Teacher4",
+      "students": [
+        {
+          "name": "student1"
+        },
+        {
+          "name": "student2"
+        }
+      ]
+    }
+  ]
+}
